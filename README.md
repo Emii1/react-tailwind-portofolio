@@ -14,7 +14,7 @@ This project uses **React** with **Vite** for fast development and HMR.
 
 ## 🎨 Styling
 
-The project uses **Tailwind CSS** for utility-first styling, enabling fast and responsive design workflows. 💅
+The project uses **Tailwind CSS** for utility-first styling, enabling fast and responsive design workflows. 
 
 ---
 
