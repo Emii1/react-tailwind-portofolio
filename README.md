@@ -19,3 +19,4 @@ The project uses **Tailwind CSS** for utility-first styling, enabling fast and r
 ---
 
 ## ☁️ Deployment
+👉 Deployed app: https://react-tailwind-portofolio-ten.vercel.app 
